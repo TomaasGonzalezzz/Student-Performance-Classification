@@ -1,0 +1,201 @@
+{
+  "descripcion": "Todos los archivos de la entrega conservados sin modificaciones; README original trasladado a docs. Los dos CSV de la consigna coinciden byte a byte con data/raw y se incluyen una sola vez. Figura extraída de una salida PNG guardada en la celda 154 del notebook (índice desde cero).",
+  "fuentes": [
+    {
+      "archivo": "Gonzalez_Tomas_TP2.zip",
+      "sha256": "d8bc665e46518a8d168209af8b5ac1cf6f2a2ac458fb50df75e356d77ca436ee"
+    },
+    {
+      "archivo": "Trabajo Práctico 2-20261028.zip",
+      "sha256": "3630463748b7b3979c5d51cba88a0d5add6d2a6b92b841be2b5de6a853290063"
+    }
+  ],
+  "archivos_originales": [
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/data/processed/rendimiento_estudiantes_dev_clean.csv",
+      "archivo_repositorio": "data/processed/rendimiento_estudiantes_dev_clean.csv",
+      "sha256": "1bceda335db704f73f9f02ca052495ae21967771f797ec84849119c4260a1da9"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/data/processed/rendimiento_estudiantes_test_clean.csv",
+      "archivo_repositorio": "data/processed/rendimiento_estudiantes_test_clean.csv",
+      "sha256": "e6a6683ba19d9b6fcb3af724ebcba1fa5d173ed9047d32d9288191f182edbb90"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/data/raw/rendimiento_estudiantes_dev.csv",
+      "archivo_repositorio": "data/raw/rendimiento_estudiantes_dev.csv",
+      "sha256": "fe9f5123ce666189f1c8b406331d8ad62346486df2f8cb2fcd52c579da182a4d"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/data/raw/rendimiento_estudiantes_test.csv",
+      "archivo_repositorio": "data/raw/rendimiento_estudiantes_test.csv",
+      "sha256": "380e4ab3645fda022e55704c57f98010939cd5e9986ab0332a1c6567498a9534"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/notebook/Entrega_TP2.ipynb",
+      "archivo_repositorio": "notebook/Entrega_TP2.ipynb",
+      "sha256": "2e08ce452d5295209167584eab5ac285230a36e213bd73df26d69ddd7aa8fc86"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/best_multiclass_configs.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/best_multiclass_configs.csv",
+      "sha256": "e3882b3f5e7f69e97e17ac641856abdb6171f5ff31f76306f9564d056e0ee361"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/lda_cv_fold_metrics.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/lda_cv_fold_metrics.csv",
+      "sha256": "7a3abd27eab212a7149a813a325a718cee48ddf91a16106ed81f0a0a00cc457b"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/lda_ridge_tuning.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/lda_ridge_tuning.csv",
+      "sha256": "8fd7692e71467bcf5c2755e3865a91ec206c95bd60a0f55c4ee905b8ba4236ba"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/multiclass_logistic_cv_fold_metrics.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/multiclass_logistic_cv_fold_metrics.csv",
+      "sha256": "e9addf3131458cc73a27be40b618d94320b22ee3a0d28c5e5af8948c73b6bc64"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/multiclass_logistic_tuning.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/multiclass_logistic_tuning.csv",
+      "sha256": "8192e5b83776351f7c8c86a395df2f46f7377de9bb8cbdb24655bae3d6e2b6a9"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/random_forest_cv_fold_metrics.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/random_forest_cv_fold_metrics.csv",
+      "sha256": "255d5b0d18b8affd8c5ffa495bcf610bc2d81c3791b7f3701516acde5273bd94"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_3/random_forest_tuning.csv",
+      "archivo_repositorio": "outputs/tables/punto_3/random_forest_tuning.csv",
+      "sha256": "1fcc68074af9d6d8394b4400b0f5e62ed7c8d31349f1029f73647cfe696d81f4"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_4/rebalancing_best_lambdas.csv",
+      "archivo_repositorio": "outputs/tables/punto_4/rebalancing_best_lambdas.csv",
+      "sha256": "c83c6c0defeef88238fbebac0ad305bc0c2cedacea25ff8ddf7387cc5d305956"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_4/rebalancing_cv_fold_metrics.csv",
+      "archivo_repositorio": "outputs/tables/punto_4/rebalancing_cv_fold_metrics.csv",
+      "sha256": "c9f5b695be416e527b159615ede9d9e618778b07e420fe93f6fb7aa132950e1a"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_4/rebalancing_lambda_tuning.csv",
+      "archivo_repositorio": "outputs/tables/punto_4/rebalancing_lambda_tuning.csv",
+      "sha256": "263563140acf898a775bde4192860f33f93d87a60b8137e44ce29a175778fb07"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_5/rf_learning_curve_estimate.csv",
+      "archivo_repositorio": "outputs/tables/punto_5/rf_learning_curve_estimate.csv",
+      "sha256": "48e965a83ce6c2ed9388e287fac3612309bb943961adeb75156475f3329683bb"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_5/rf_learning_curve_fit.csv",
+      "archivo_repositorio": "outputs/tables/punto_5/rf_learning_curve_fit.csv",
+      "sha256": "e1c5fe7c4a7699c5bf503438085eec27259c935473a635c4fde33e10099dfca9"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/outputs/tables/punto_5/rf_learning_curve_summary.csv",
+      "archivo_repositorio": "outputs/tables/punto_5/rf_learning_curve_summary.csv",
+      "sha256": "a3edd995a31ba571576102186b9eeead91761b6987f580a03af5ae9ccfb42a99"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/README.md",
+      "archivo_repositorio": "docs/README_entrega_original.md",
+      "sha256": "2eaf4f7c26f9f428ceaddcac887a752c261fc1b785b6fc9660b3b47be624f1a3"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/analisis_exploratorio.py",
+      "archivo_repositorio": "src/analisis_exploratorio.py",
+      "sha256": "3309696517681976abd5766b61e27b2a4b00063054e65eb72f976f318d22af99"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/configuracion.py",
+      "archivo_repositorio": "src/configuracion.py",
+      "sha256": "ef26224e08295eefecf16f67131a86ebf6b29b8c379bd09746039d3dcf0230da"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/datos.py",
+      "archivo_repositorio": "src/datos.py",
+      "sha256": "76c1cd77e2ecddeb474030984b18b0b20c68a23bff8115e3b3927b40a64dae1f"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/experimentos.py",
+      "archivo_repositorio": "src/experimentos.py",
+      "sha256": "7d2d2b30e9270c17cbb01459756b2b692ecfdf0ff66c0a5d4d84e44e0e3ea43c"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/metricas.py",
+      "archivo_repositorio": "src/metricas.py",
+      "sha256": "ec73b4c5f62b36be3ae5d45bae7ca2615e74ccc435746acbce3edf323a99f8fd"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/modelos.py",
+      "archivo_repositorio": "src/modelos.py",
+      "sha256": "2af6632cbde2197c373abdfce8807fbf6254d04c81975155173f31ff66c90b3d"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/preprocesamiento.py",
+      "archivo_repositorio": "src/preprocesamiento.py",
+      "sha256": "4019fd6cdf586eed017a0cc32c6be5c405c03b1f3e534f5e74077f512424e645"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/secciones_notebook.py",
+      "archivo_repositorio": "src/secciones_notebook.py",
+      "sha256": "96d25553226b20ba2999dcb380c6dcdfb48e79d268430576841ba3274179f4ef"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/utilidades.py",
+      "archivo_repositorio": "src/utilidades.py",
+      "sha256": "f35eb430061ce52c3f278cd372cc0a6dfa3d3fec21d4c9b14ad15f9517f51f67"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/validation.py",
+      "archivo_repositorio": "src/validation.py",
+      "sha256": "a113fe848c2cd07446a9b0be13acbfdfd83e65934cdf209ccce0d3016da63df0"
+    },
+    {
+      "fuente": "Gonzalez_Tomas_TP2.zip",
+      "archivo_zip": "Gonzalez_Tomas_TP2/src/visualizacion.py",
+      "archivo_repositorio": "src/visualizacion.py",
+      "sha256": "473e5fe7c8b4fd4eba75fb875d845b6cb42220be9bd0c995c80464195a22e579"
+    },
+    {
+      "fuente": "Trabajo Práctico 2-20261028.zip",
+      "archivo_zip": "Trabajo Práctico 2.pdf",
+      "archivo_repositorio": "docs/consigna.pdf",
+      "sha256": "bc8e7f312556259fb25bb3a67c73213b001e2a6c204952dcc05564a8c7a60ff1"
+    }
+  ]
+}

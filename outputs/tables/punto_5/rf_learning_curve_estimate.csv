@@ -1,0 +1,2 @@
+current_n,current_accuracy,target_accuracy,curve_intercept,curve_slope,fit_method,fit_points,fit_start_n,required_n,additional_n,finite_solution
+5058,0.571409816721768,0.5814098167217681,0.5103994051084738,0.007428438962461244,ajuste logaritmico sobre toda la curva,10,1012.0,14175.413958570953,9118,True

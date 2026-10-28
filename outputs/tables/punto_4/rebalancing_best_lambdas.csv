@@ -1,0 +1,6 @@
+technique,technique_label,best_lambda
+no_rebalancing,Sin rebalanceo,0.003
+undersampling,Submuestreo,1e-05
+oversampling_duplicate,Sobremuestreo duplicado,1e-06
+oversampling_smote,Sobremuestreo SMOTE,3e-05
+cost_reweighting,Ponderacion por costo,3e-06

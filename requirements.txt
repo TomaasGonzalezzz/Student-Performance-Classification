@@ -1,0 +1,8 @@
+# NumPy >= 2.0 por el uso de np.trapezoid en metricas.py.
+# Versiones originales de bibliotecas no registradas.
+numpy>=2.0
+pandas
+matplotlib
+seaborn
+ipython
+jupyterlab

@@ -1,0 +1,10 @@
+src/** -text
+data/** -text
+notebook/** -text
+outputs/** -text
+docs/README_entrega_original.md -text
+*.pdf binary
+*.png binary
+README.md text eol=lf
+*.json text eol=lf
+requirements.txt text eol=lf

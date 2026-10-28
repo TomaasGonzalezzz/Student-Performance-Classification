@@ -1,0 +1,25 @@
+{
+  "alcance": "Comprobaciones acotadas con modelos y métricas originales: datos sintéticos separables, predicciones y probabilidades; métricas de clasificación perfecta; GroupKFold sobre las escuelas del CSV original. No se ejecutó el notebook completo ni se reprodujeron búsquedas de hiperparámetros o evaluaciones finales.",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "resultados": {
+    "logistica_binaria": {
+      "accuracy_sintetica": 1.0
+    },
+    "logistica_multiclase": {
+      "accuracy_sintetica": 1.0
+    },
+    "lda": {
+      "accuracy_sintetica": 1.0
+    },
+    "random_forest": {
+      "accuracy_sintetica": 1.0
+    },
+    "group_kfold": {
+      "folds": 8,
+      "escuelas_sin_solapamiento": true,
+      "cobertura_validation_completa": true
+    }
+  }
+}
